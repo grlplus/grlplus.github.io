@@ -6,7 +6,9 @@ permalink: /schedule/
 
 8:40--9:00AM: *Opening remarks*
 
-9:00--10:00AM: **Invited talks**: *Xavier Bresson, Kyle Cranmer*
+9:00--9:30AM: **Invited talk**: *Xavier Bresson*
+
+9:30--10:00: **Invited talk**: *Kyle Cranmer*
 
 10:00--10:30AM: **Contributed talks**: *Novel applications*
 
@@ -26,6 +28,8 @@ permalink: /schedule/
 
 3:15--4:15PM: **Poster session #2** / *Coffee break* 
 
-4:15--4:45PM: **Invited talks**: *Tina Eliassi-Rad, Raquel Urtasun*
+4:15--4:45PM: **Invited talk**: *Tina Eliassi-Rad*
+
+4:45--5:15: **Invited talk**: *Raquel Urtasun*
 
 5:15--5:45: **Panel discussion**
