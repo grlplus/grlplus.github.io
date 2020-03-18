@@ -4,8 +4,9 @@ title: Speakers
 permalink: /speakers/
 ---
 
-- [**Peter Battaglia**](https://scholar.google.co.uk/citations?user=nQ7Ij30AAAAJ&hl=en), *DeepMind*
-- [**Bistra Dilkina**](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra), *University of Southern California*
-- [**Marco Gori**](http://sailab.diism.unisi.it/people/marco-gori/), *Università degli Studi di Siena*
-- [**Tommi Jaakkola**](https://people.csail.mit.edu/tommi/), *Massachusetts Institute of Technology*
-- [**Marinka Žitnik**](https://stanford.edu/~marinka/), *Stanford University*
+- [**Xavier Bresson**](https://www.ntu.edu.sg/home/xbresson/), *Nanyang Technological University*
+- [**Kyle Cranmer**](https://as.nyu.edu/content/nyu-as/as/faculty/kyle-s-cranmer.html), *New York University*
+- [**Tina Eliassi-Rad**](http://eliassi.org/), *Northeastern University*
+- [**Thomas Kipf**](https://tkipf.github.io/), *Google Brain*
+- [**Danai Koutra**](https://web.eecs.umich.edu/~dkoutra/),  *University of Michigan*
+- [**Raquel Urtasun**](http://www.cs.toronto.edu/~urtasun/), *Uber/University of Toronto/Vector Institute*

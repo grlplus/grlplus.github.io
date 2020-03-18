@@ -1,11 +1,11 @@
 # Site settings
-title: Graph Representation Learning
-description: 'NeurIPS 2019 Workshop'
-url: 'grlearning.github.io'
+title: Graph Representation Learning and Beyond (GRL+)
+description: 'ICML 2020 Workshop'
+url: 'grlplus.github.io'
 baseurl: '' 
 
 author:
-  name: 'Petar Veličković and William L. Hamilton'
+  name: 'Andreea Deac'
 
 defaults:
   -
