@@ -12,11 +12,11 @@ permalink: /schedule/
 
 10:00--10:30AM: **Contributed talks**: *Novel applications*
 
-10:30--11:00AM: *Coffee break and discussions*
+10:30--11:00AM: *Break/discussions*
 
 11:00--11:30AM: **Invited talk**: *Thomas Kipf*
 
-11:30AM--12:30PM: **Poster Session #1**
+11:30AM--12:30PM: **Virtual Poster Session #1**
 
 12:30--1:30PM: *Lunch*
 
@@ -26,10 +26,10 @@ permalink: /schedule/
 
 2:45--3:15PM: **Updates**: PyTorch Geometric (*Matthias Fey*), Deep Graph Library (*Zheng Zhang*), Open Graph Benchmark (*Jure Leskovec*) 
 
-3:15--4:15PM: **Poster session #2** / *Coffee break* 
+3:15--4:15PM: **Virtual Poster Session #2**
 
 4:15--4:45PM: **Invited talk**: *Tina Eliassi-Rad*
 
 4:45--5:15: **Invited talk**: *Raquel Urtasun*
 
-5:15--5:45: **Panel discussion**
+5:15--5:45: **Closing remarks**
