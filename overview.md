@@ -17,9 +17,6 @@ The workshop will consist of contributed talks, contributed posters, and invited
 - Applications of graph representation learning across the natural and social sciences
 - Benchmark datasets and evaluation methods
 
-We will welcome 4-page original research papers. 
-All accepted papers will be presented as posters, with three contributed works, as well as three most promising novel applications, being selected for an oral presentation.
-
 [1] P. Battaglia et al. Relational inductive biases, deep learning, and graph networks. arXiv preprintarXiv:1806.01261, 2018.<br>
 [2] M.M. Bronstein, J Bruna, Y. LeCun, A. Szlam, and P. Vandergheynst. Geometric deep learning: going beyond euclidean data. IEEE Signal Processing Magazine, 34(4):18–42, 2017.<br>
 [3] Joan  Bruna, Wojciech Zaremba, Arthur Szlam, and Yann LeCun. Spectral networks and locally connected networks on graphs. arXiv preprint arXiv:1312.6203, 2013.<br>
