@@ -24,7 +24,7 @@ permalink: /schedule/
 
 2:15--2:45PM: **Invited talk**: *Danai Koutra*
 
-2:45--3:15PM: **Updates: PyTorch Geometric, Deep Graph Library, Open Graph Benchmark** 
+2:45--3:15PM: **Updates**: PyTorch Geometric (*Matthias Fey*), Deep Graph Library (*Zheng Zhang*), Open Graph Benchmark (*Jure Leskovec*) 
 
 3:15--4:15PM: **Poster session #2** / *Coffee break* 
 
