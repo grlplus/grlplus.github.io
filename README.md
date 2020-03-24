@@ -1,2 +1,2 @@
-# grlearning.github.io
-Graph Representation Learning
+# grlplus.github.io
+Graph Representation Learning and Beyond (GRL+)
