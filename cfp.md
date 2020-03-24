@@ -21,4 +21,5 @@ All accepted papers will be presented in the virtual poster session, with three 
 
 All submissions must use the [ICML template](https://icml.cc/Conferences/2020/StyleAuthorInstructions). Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
 
-Should you have any questions, please reach out to [icml-grlplus-2020@googlegroups.com](icml-grlplus-2020@googlegroups.com).
+Should you have any questions, please reach out to us via email:<br>
+[icml-grlplus-2020@googlegroups.com](icml-grlplus-2020@googlegroups.com).
