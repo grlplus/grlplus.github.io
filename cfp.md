@@ -15,7 +15,7 @@ You may submit your paper through **CMT**, by following [this link](https://cmt3
 
 We encourage submissions related to graph representation learning and geometric deep learning. We will especially appreciate submissions that connect directly with the topics of the workshop, as well as papers that introduce interdisciplinary applications and benchmarks. 
 
-We will welcome original research papers of no more than 4 pages, not including references or supplementary materials. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings) that do not fit in the 4 pages. Submissions which also qualify for the application track should be marked accordingly in CMT.
+We will welcome original research papers of no more than 4 pages, not including references or supplementary materials. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings) that do not fit in the 4 pages. Submissions which also qualify for a contributed talk on novel applications should be marked accordingly in CMT.
 
 All accepted papers will be presented in the virtual poster session, with three contributed works, as well as three most promising novel applications, being selected for an oral presentation.
 
