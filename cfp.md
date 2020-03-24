@@ -20,3 +20,5 @@ We will welcome original research papers of no more than 4 pages, not including 
 All accepted papers will be presented in the virtual poster session, with three contributed works, as well as three most promising novel applications, being selected for an oral presentation.
 
 All submissions must use the [ICML template](https://icml.cc/Conferences/2020/StyleAuthorInstructions). Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
+
+Should you have any questions, please reach out to [icml-grlplus-2020@googlegroups.com](icml-grlplus-2020@googlegroups.com).
