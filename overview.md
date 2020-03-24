@@ -5,18 +5,20 @@ permalink: /overview/
 ---
 
 **Date and time:** Friday or Saturday, 17-18 July 2020, 8:45AM -- 5:30PM<br>
-The workshop will be held remotely due to risks and travel restrictions associated with SARS-CoV-2/COVID-19. More information to follow; for more information from ICML, please see the [ICML conference website](https://icml.cc/Conferences/2020).
+The workshop will be held **virtually** due to risks and travel restrictions associated with SARS-CoV-2/COVID-19. More information to follow; for more information from ICML, please see the [ICML conference website](https://icml.cc/Conferences/2020).
 
 Recent years have seen a surge in research on **graph representation learning** [1,2,8], including techniques for deep graph embeddings [7,12,14], generalizations of CNNs to graph-structured data [3,5,11], and neural message-passing approaches [6,9,10,16]. These advances in graph neural networks and related techniques have led to new state-of-the-art results in numerous domains: chemical synthesis [20], 3D-vision [18], recommender systems [19], question answering [15], continuous control [17], self-driving [4] and social network analysis [13]. 
 
 Building on the successes of three related workshops from last year (at [ICML](https://graphreason.github.io/), [ICLR](https://rlgm.github.io/) and [NeurIPS](http://grlearning.github.io/)), the primary goal for this workshop is to facilitate community building, and support expansion of graph representation learning into more interdisciplinary projects with the natural and social sciences. With hundreds of new researchers beginning projects in this area, we hope to bring them together to consolidate this fast-growing area into a healthy and vibrant subfield. Especially, we aim to strongly promote novel and exciting applications of graph representation learning across the sciences, reflected in our choices of invited speakers.
 
-The workshop will consist of contributed talks, contributed virtual posters, and invited talks on a wide variety of methods and problems in this area, including but not limited to:
+The workshop will consist of contributed talks, virtual poster sessions, and invited talks on a wide variety of methods and problems in this area, including but not limited to:
 - Supervised deep learning on graphs (e.g., graph neural networks)
 - Unsupervised graph embedding methods, and deep generative models of graphs
 - Geometric deep learning (e.g., representation learning on manifolds, point clouds in computer vision)
 - Applications of graph representation learning across the natural and social sciences
 - Benchmark datasets and evaluation methods
+
+### References
 
 [1] P. Battaglia et al. Relational inductive biases, deep learning, and graph networks. arXiv preprintarXiv:1806.01261, 2018.<br>
 [2] M.M. Bronstein, J Bruna, Y. LeCun, A. Szlam, and P. Vandergheynst. Geometric deep learning: going beyond euclidean data. IEEE Signal Processing Magazine, 34(4):18–42, 2017.<br>
