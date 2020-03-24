@@ -8,7 +8,7 @@ permalink: /cfp/
 
 **Author notification:** 19th June
 
-**Workshop:** 17th or 18th July
+**Workshop:** 17th or 18th July<br>
 The workshop will be held **virtually** due to risks and travel restrictions associated with SARS-CoV-2/COVID-19. More information to follow; for more information from ICML, please see the [ICML conference website](https://icml.cc/Conferences/2020).
 
 You may submit your paper through **CMT**, by following [this link](https://cmt3.research.microsoft.com/GRLB2020/).
