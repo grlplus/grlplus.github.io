@@ -30,6 +30,8 @@ permalink: /schedule/
 
 4:15--4:45PM: **Invited talk**: *Tina Eliassi-Rad*
 
-4:45--5:15: **Invited talk**: *Raquel Urtasun*
+4:45--5:15PM: **Invited talk**: *Raquel Urtasun*
 
-5:15--5:45: **Closing remarks**
+5:15--5:45PM: **Contributed talks**: *COVID-19 applications*
+
+5:45--6:00PM: **Closing remarks**
