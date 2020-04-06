@@ -1,13 +1,13 @@
 ---
 layout: post
-title: COVID-19 resources
+title: COVID-19 Resources
 permalink: /covid19/
 ---
 
 We encourage submission of original research relevant to mitigating the impact of COVID-19. Examples of impactful use cases include: 
 
-- drug design
-- drug repurposing
+- GNNs for drug design
+- GNNs for drug repurposing
 - GNN-powered epidemiological forecasting models
 - GNNs for track and trace
 - GNN-based supply chain demand forecasting 
