@@ -15,7 +15,7 @@ You may submit your paper through **CMT**, by following [this link](https://cmt3
 
 We encourage submissions related to graph representation learning and geometric deep learning. We will especially appreciate submissions that connect directly with the topics of the workshop, as well as papers that introduce interdisciplinary applications and benchmarks.
 
-For this workshop, we also encourage applications relevant to mitigating negative effects of COVID-19. Some examples of impactful use cases: drug repurposing, forecasting via GNN-powered epidemiological models, track-and-trace via GNNs, etc. 
+For this workshop, we also encourage applications relevant to mitigating negative effects of COVID-19. Some examples of impactful use cases: drug repurposing, forecasting via GNN-powered epidemiological models, track-and-trace via GNNs, etc. We provide a set of resource [here](/covid19/) 
 
 We will welcome original research papers of no more than 4 pages, not including references or supplementary materials. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings) that do not fit in the 4 pages. Submissions which also qualify for a contributed talk on novel applications or COVID-19 mitigation should be marked accordingly in CMT.
 
