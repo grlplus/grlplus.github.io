@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COVID-19 resources
-permalink: /covid-19/
+permalink: /covid19/
 ---
 
 We encourage submission of original research relevant to mitigating the impact of COVID-19. Examples of impactful use cases include: 
