@@ -1,3 +1,9 @@
+---
+layout: post
+title: COVID-19 resources
+permalink: /covid-19/
+---
+
 We encourage submission of original research relevant to mitigating the impact of COVID-19. Examples of impactful use cases include: 
 
 - drug design
@@ -13,5 +19,4 @@ All submissions will be considered for a virtual poster presentation at the work
 Below you can find a set of useful resources for relevant task specifications and datasets for COVID-19 mitigation. 
 
 - [Graph methods for COVID-19 response](files/graphs-against-covid.pdf). A slide deck by William L. Hamilton
-- *More to come...*
-- 
+- *More to come...* 
