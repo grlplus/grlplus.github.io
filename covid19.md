@@ -16,3 +16,16 @@ All submissions will be considered for a virtual poster presentation at the work
 [**Mission AI Cures**](https://www.aicures.mit.edu/) provides a suite of machine learning tasks with corresponding datasets to which everyone can contribute. We welcome submissions that showcase methodology and results on these tasks. 
 
 For an overview of how graph representation learning methods can be used in the fight against COVID-19, please see the following slide deck: [**Graph Methods for COVID-19 Response**](files/graphs-against-covid.pdf), prepared by [*William L. Hamilton*](https://williamleif.github.io/) (McGill University/Mila).
+
+Other data resources include but are not limited to: 
+
+- [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus)
+- [COVID-19 Open Research Dataset Challenge (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
+- Individual case data for [Singapore](https://co.vid19.sg/cases), [India](https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_2y5N0I67wDU38DjDh35IZSIS30rQf7_NYZhtYYGU1jJYT6_kDx4YpF-qw0LSlGsBYP8pqM_a1Pd/pubhtml), [Brazil](http://covid19br.org/), and [Switzerland](https://www.corona-data.ch/)
+- [The COVID Tracking Project in the US](https://covidtracking.com/)
+- [Mobility data for Italy](https://github.com/pcm-dpc/COVID-19)
+- [Citymapper Mobility Index](https://citymapper.com/CMI)
+- [COVID-19 data from Johns Hopkins Center for Systems Science and Engineering](https://console.cloud.google.com/marketplace/details/johnshopkins/covid19_jhu_global_cases)
+- [NYC COVID-19 data](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)
+- [COVID-19: The Public Coronavirus Twitter Dataset](https://github.com/echen102/COVID-19-TweetIDs)
+- [Face-to-face contact datasets](http://www.sociopatterns.org/)
