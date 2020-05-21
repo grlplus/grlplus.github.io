@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-**Submission deadline:** Friday, 29th May 2020 (23:59 AoE)
+**Submission deadline:** ~~Friday, 29th May 2020~~ Monday, 8 June 2020 (23:59 AoE) (**New deadline!**)
 
 **Author notification:** 19th June
 
