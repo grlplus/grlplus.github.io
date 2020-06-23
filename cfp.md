@@ -6,10 +6,12 @@ permalink: /cfp/
 
 **Submission deadline:** ~~Friday, 29th May 2020~~ Monday, 8 June 2020 (23:59 AoE)<br> (**New deadline!**)
 
-**Author notification:** 22nd June
+**Author notification:** Monday, 22 June 2020
 
-**Workshop:** 17th or 18th July<br>
-The workshop will be held **virtually** due to risks and travel restrictions associated with SARS-CoV-2/COVID-19. More information to follow; for more information from ICML, please see the [ICML conference website](https://icml.cc/Conferences/2020).
+**Camera ready deadline:** Monday, 6 July 2020 (23:59 AoE)
+
+**Workshop:** Friday, 17 July 2020<br>
+The workshop will be held **virtually** due to risks and travel restrictions associated with SARS-CoV-2/COVID-19. For more information from ICML, please see the [ICML conference website](https://icml.cc/Conferences/2020).
 
 You may submit your paper through **CMT**, by following [this link](https://cmt3.research.microsoft.com/GRLB2020/).
 
