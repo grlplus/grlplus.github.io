@@ -4,7 +4,7 @@ title: Overview
 permalink: /overview/
 ---
 
-**Date and time:** Friday, 17 July 2020, 8:45AM -- 5:30PM<br>
+**Date and time:** Friday, 17 July 2020, 8:40AM -- 7:00PM (GMT+2)<br>
 The workshop will be held **virtually** due to risks and travel restrictions associated with SARS-CoV-2/COVID-19. More information to follow; for more information from ICML, please see the [ICML conference website](https://icml.cc/Conferences/2020).
 
 Recent years have seen a surge in research on **graph representation learning** [1,2,8], including techniques for deep graph embeddings [7,12,14], generalizations of CNNs to graph-structured data [3,5,11], and neural message-passing approaches [6,9,10,16]. These advances in graph neural networks and related techniques have led to new state-of-the-art results in numerous domains: chemical synthesis [20], 3D-vision [18], recommender systems [19], question answering [15], continuous control [17], self-driving [4] and social network analysis [13]. 
