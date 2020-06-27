@@ -26,6 +26,9 @@ All times in **Vienna** timezone (GMT+2).
 12:30--1:30PM: *Lunch Break*
 
 1:30--2:15PM: **Contributed talks**: Original research
+* Jiawei Zhang: _"Get Rid of Suspended Animation: Deep Diffusive Neural Network for Graph Representation Learning"_
+* Vignesh Ram Somnath, Charlotte Bunne, Connor W. Coley, Andreas Krause and Regina Barzilay: _"Learning Graph Models for Template-Free Retrosynthesis"_
+* Rex Ying, Andrew Z. Wang, Jiaxuan You and Jure Leskovec: _"Frequent Subgraph Mining by Walking in Order Embedding Space"_
 
 2:15--2:45PM: **Invited talk**: *Kyle Cranmer*
 
