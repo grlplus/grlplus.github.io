@@ -45,7 +45,7 @@ All times in **Vienna** timezone (GMT+2).
 
 4:45--5:15PM: **Invited talk**: *Raquel Urtasun*
 
-5:15--5:45PM: *Coffee Break / Discussions 3*
+5:15--5:45PM: **Coffee Break / Discussions 3**
 
 5:45--6:45PM: **Virtual Poster Session #2**
 
