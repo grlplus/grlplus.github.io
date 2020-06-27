@@ -37,6 +37,9 @@ All times in **Vienna** timezone (GMT+2).
 3:15--3:45PM: **Coffee Break / Discussions 2**
 
 3:45--4:15PM: **Contributed talks**: *COVID-19 applications*
+* Antonia Gogoglou, Bryan Nguyen, Alan Salimov, Jonathan B. Rider and C. Bayan Bruss: _"Navigating the Dynamics of Financial Embeddings over Time"_
+* Yushan Liu, Marcel Hildebrandt, Mitchell Joblin, Martin Ringsquandl and Volker Tresp: _"Integrating Logical Rules Into Neural Multi-Hop Reasoning for Drug Repurposing"_
+* Arijit Sehanobish, Neal Ravindra and David van Dijk: _"Gaining insight into SARS-CoV-2 infection and COVID-19 severity using self-supervised edge features and Graph Neural Networks"_
 
 4:15--4:45PM: **Invited talk**: *Tina Eliassi-Rad*
 
