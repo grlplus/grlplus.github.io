@@ -6,17 +6,20 @@ permalink: /schedule/
 
 All times in **Vienna** timezone (GMT+2).
 
-8:40--9:00AM: *Opening remarks*
+8:40--9:00AM: **Opening remarks**
 
 9:00--9:30AM: **Invited talk**: *Xavier Bresson*
 
 9:30--10:00AM: **Invited talk**: *Thomas Kipf*
 
 10:00--10:30AM: **Contributed talks**: *Novel applications*
+* Péter Mernyei and Cătălina Cangea: _"Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks"_
+* Andrea Scotti, Nima N. Moghadam, Dong Liu, Karl Gafvert and Jinliang Huang: _"Graph Neural Networks for Massive MIMO Detection"_
+* Hyunwook Kang, Aydar Mynbay, James Morrison and Jinkyoo Park: _"Learning to solve NP-hard multi-robot scheduling problems using GNN-based mean-field inference"_
 
 10:30--11:30AM: **Virtual Poster Session #1**
 
-11:30AM--12:00PM: *Coffee Break / Discussions 1*
+11:30AM--12:00PM: **Coffee Break / Discussions 1**
 
 12:00--12:30PM: **Updates**: PyTorch Geometric (*Matthias Fey*), Deep Graph Library (*Zheng Zhang*), Open Graph Benchmark (*Jure Leskovec*)
 
@@ -28,7 +31,7 @@ All times in **Vienna** timezone (GMT+2).
 
 2:45--3:15PM: **Invited talk**: *Danai Koutra* 
 
-3:15--3:45PM: *Coffee Break / Discussions 2*
+3:15--3:45PM: **Coffee Break / Discussions 2**
 
 3:45--4:15PM: **Contributed talks**: *COVID-19 applications*
 
