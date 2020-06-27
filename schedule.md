@@ -15,7 +15,7 @@ All times in **Vienna** timezone (GMT+2).
 10:00--10:30AM: **Contributed talks**: *Novel applications*
 * Péter Mernyei and Cătălina Cangea: _"Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks"_
 * Andrea Scotti, Nima N. Moghadam, Dong Liu, Karl Gafvert and Jinliang Huang: _"Graph Neural Networks for Massive MIMO Detection"_
-* Hyunwook Kang, Aydar Mynbay, James Morrison and Jinkyoo Park: _"Learning to solve NP-hard multi-robot scheduling problems using GNN-based mean-field inference"_
+* Hyunwook Kang, Aydar Mynbay, James R. Morrison and Jinkyoo Park: _"Learning to solve NP-hard multi-robot scheduling problems using GNN-based mean-field inference"_
 
 10:30--11:30AM: **Virtual Poster Session #1**
 
