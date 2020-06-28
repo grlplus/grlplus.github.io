@@ -19,7 +19,7 @@ All times in **Vienna** timezone (GMT+2).
 
 10:30--11:30AM: **Virtual Poster Session #1**
 
-11:30AM--12:00PM: **Coffee Break / Discussions 1**
+11:30AM--12:00PM: **Q&A / Discussions / Coffee 1**
 
 12:00--12:30PM: **Updates**: PyTorch Geometric (*Matthias Fey*), Deep Graph Library (*Zheng Zhang*), Open Graph Benchmark (*Jure Leskovec*)
 
@@ -34,7 +34,7 @@ All times in **Vienna** timezone (GMT+2).
 
 2:45--3:15PM: **Invited talk**: *Danai Koutra* 
 
-3:15--3:45PM: **Coffee Break / Discussions 2**
+3:15--3:45PM: **Q&A / Discussions / Coffee 2**
 
 3:45--4:15PM: **Contributed talks**: *COVID-19 applications*
 * Antonia Gogoglou, Bryan Nguyen, Alan Salimov, Jonathan B. Rider and C. Bayan Bruss: _"Navigating the Dynamics of Financial Embeddings over Time"_
@@ -45,7 +45,7 @@ All times in **Vienna** timezone (GMT+2).
 
 4:45--5:15PM: **Invited talk**: *Raquel Urtasun*
 
-5:15--5:45PM: **Coffee Break / Discussions 3**
+5:15--5:45PM: **Q&A / Discussions / Coffee 3**
 
 5:45--6:45PM: **Virtual Poster Session #2**
 
