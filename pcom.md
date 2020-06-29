@@ -91,7 +91,7 @@ permalink: /pcom/
 - **Ron Levie**, *TU Berlin*
 - **Ryoma Sato**, *Kyoto University*
 - **Sergey Ivanov**, *Criteo*
-- **Sergio Kasas Romero**, *Uber ATG / University of Toronto*
+- **Sergio Casas Romero**, *Uber ATG / University of Toronto*
 - **Shagun Sodhani**, *Facebook AI*
 - **Shengchao Liu**, *Mila* 
 - **Sitao Luan**, *Mila* 
