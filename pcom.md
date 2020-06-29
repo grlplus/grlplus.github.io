@@ -47,7 +47,7 @@ permalink: /pcom/
 - **Guangtao Wang**, *JD.com*
 - **Guillem Cucurull**, *Blue Prism*
 - **Guy Wolf**,	*Université de Montréal* (**Best Reviewer Award**)
-- **Haggai Maron**,	*Weizmann Institute of Science*
+- **Haggai Maron**,	*NVIDIA Research*
 - **Hanjun Dai**,	*Georgia Institute of Technology*
 - **Helena Andrés-Terre**,	*University of Cambridge*
 - **Ines Chami**, *Stanford University*
