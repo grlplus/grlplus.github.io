@@ -12,14 +12,14 @@ All times in **Vienna** timezone (GMT+2).
 
 9:30--10:00AM: **Invited talk**: *Thomas Kipf*
 
-10:00--10:30AM: **Contributed talks**: *Novel applications*
-* Péter Mernyei and Cătălina Cangea: _"Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks"_
-* Andrea Scotti, Nima N. Moghadam, Dong Liu, Karl Gafvert and Jinliang Huang: _"Graph Neural Networks for Massive MIMO Detection"_
-* Hyunwook Kang, Aydar Mynbay, James R. Morrison and Jinkyoo Park: _"Embedding a random graph via GNN: Extended mean-field inference theory and RL applications to NP-Hard multi-robot/machine scheduling"_
+10:00--10:30AM: **Q&A / Discussions / Coffee 1**
 
 10:30--11:30AM: **Virtual Poster Session #1**
 
-11:30AM--12:00PM: **Q&A / Discussions / Coffee 1**
+11:30AM--12:00PM: **Contributed talks**: *Novel applications*
+* Péter Mernyei and Cătălina Cangea: _"Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks"_
+* Andrea Scotti, Nima N. Moghadam, Dong Liu, Karl Gafvert and Jinliang Huang: _"Graph Neural Networks for Massive MIMO Detection"_
+* Hyunwook Kang, Aydar Mynbay, James R. Morrison and Jinkyoo Park: _"Embedding a random graph via GNN: Extended mean-field inference theory and RL applications to NP-Hard multi-robot/machine scheduling"_
 
 12:00--12:30PM: **Updates**: PyTorch Geometric (*Matthias Fey*), Deep Graph Library (*Zheng Zhang*), Open Graph Benchmark (*Jure Leskovec*)
 
