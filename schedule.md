@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Tentative schedule
+title: Schedule
 permalink: /schedule/
 ---
 
+The Workshop will be held virtually, on Friday, 17 July 2020.
 All times in **Vienna** timezone (GMT+2).
 
 8:40--9:00AM: **Opening remarks**
@@ -14,7 +15,7 @@ All times in **Vienna** timezone (GMT+2).
 
 10:00--10:30AM: **Q&A / Discussions / Coffee 1**
 
-10:30--11:30AM: **Virtual Poster Session #1**
+10:30--11:30AM: [**Virtual Poster Session #1**](/papers)
 
 11:30AM--12:00PM: **Contributed talks**: *Novel applications*
 * Péter Mernyei and Cătălina Cangea: _"Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks"_
@@ -47,6 +48,6 @@ All times in **Vienna** timezone (GMT+2).
 
 5:15--5:45PM: **Q&A / Discussions / Coffee 3**
 
-5:45--6:45PM: **Virtual Poster Session #2**
+5:45--6:45PM: [**Virtual Poster Session #1**](/papers)
 
 6:45--7:00PM: **Closing remarks**
