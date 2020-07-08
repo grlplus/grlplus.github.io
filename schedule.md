@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-The Workshop will be held virtually, on Friday, 17 July 2020.
+The Workshop will be held virtually, on Friday, 17 July 2020.<br>
 All times in **Vienna** timezone (GMT+2).
 
 8:40--9:00AM: **Opening remarks**
