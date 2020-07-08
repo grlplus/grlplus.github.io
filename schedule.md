@@ -48,6 +48,6 @@ All times in **Vienna** timezone (GMT+2).
 
 5:15--5:45PM: **Q&A / Discussions / Coffee 3**
 
-5:45--6:45PM: [**Virtual Poster Session #1**](/papers)
+5:45--6:45PM: [**Virtual Poster Session #2**](/papers)
 
 6:45--7:00PM: **Closing remarks**
