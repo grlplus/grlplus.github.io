@@ -43,6 +43,7 @@ permalink: /papers/
 * [**Graph Convolutional Gaussian Processes for Link Prediction**](/papers/50.pdf). *Felix L. Opolka and Pietro Liò*
 * [**Deep Lagrangian Propagation in Graph Neural Networks**](/papers/51.pdf). *Matteo Tiezzi, Giuseppe Marra, Stefano Melacci and Marco Maggini*
 * [**Scene Graph Reasoning for Visual Question Answering**](/papers/53.pdf). *Marcel Hildebrandt\*, Hang Li\*, Rajat Koner\*, Volker Tresp and Stephan Günnemann*
+* [**Uncertainty in Neural Relational Inference Trajectory Reconstruction**](/papers/55.pdf). *Vasileios Karavias, Ben Day and Pietro Liò*
 * [**Temporal Graph Networks for Deep Learning on Dynamic Graphs**](/papers/58.pdf). *Emanuele Rossi, Ben Chamberlain, Fabrizio Frasca, Davide Eynard, Federico Monti and Michael Bronstein*
 * [**Integrating Logical Rules Into Neural Multi-Hop Reasoning for Drug Repurposing**](/papers/60.pdf). *Yushan Liu\*, Marcel Hildebrandt\*, Mitchell Joblin, Martin Ringsquandl and Volker Tresp*
 * [**Differentiable Graph Module (DGM) for Graph Convolutional Networks**](/papers/64.pdf). *Anees Kazi\*, Luca Cosmo\*, Seyed-Ahmad Ahmadi, Nassir Navab and Michael Bronstein*
@@ -79,7 +80,6 @@ permalink: /papers/
 * [**Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings**](/papers/43.pdf). *Egbert Castro, Andrew Benz, Alexander Tong, Guy Wolf\* and Smita Krishnaswamy\**
 * **Discrete Planning with End-to-end Trained Neuro-algorithmic Policies**. *Marin Vlastelica, Michal Rolínek and Georg Martius*
 * [**SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**](/papers/54.pdf). *Fabian B. Fuchs\*, Daniel E. Worrall\*, Volker Fischer and Max Welling*
-* [**Uncertainty in Neural Relational Inference Trajectory Reconstruction**](/papers/55.pdf). *Vasileios Karavias, Ben Day and Pietro Liò*
 * [**Get Rid of Suspended Animation: Deep Diffusive Neural Network for Graph Representation Learning**](/papers/56.pdf). *Jiawei Zhang*
 * [**Learning Graph Models for Template-Free Retrosynthesis**](/papers/61.pdf). *Vignesh Ram Somnath, Charlotte Bunne, Connor W. Coley, Andreas Krause and Regina Barzilay*
 * [**Relate and Predict: Structure-Aware Prediction with Jointly Optimized Neural Dependency Graph**](/papers/62.pdf). *Arshdeep Sekhon, Zhe Wang and Yanjun Qi*
