@@ -16,7 +16,7 @@ permalink: /papers/
 
 * [**Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks**](/papers/32.pdf). *Péter Mernyei and Cătălina Cangea*
 * [**Graph Neural Networks for Massive MIMO Detection**](/papers/48.pdf). *Andrea Scotti, Nima N. Moghadam, Dong Liu, Karl Gafvert and Jinliang Huang*
-* [**Embedding a random graph via GNN: Extended mean-field inference theory and RL applications to NP-Hard multi-robot/machine scheduling**](/papers/91.pdf). *Hyunwook Kang, Aydar Mynbay, James R. Morrison\*, Jinkyoo Park\**
+* [**Embedding a random graph via GNN: Extended mean-field inference theory and RL applications to NP-Hard multi-robot/machine scheduling**](/papers/91.pdf). *Hyunwook Kang, Aydar Mynbay, James R. Morrison\* and Jinkyoo Park\**
 
 ### COVID-19 Applications
 
@@ -98,7 +98,7 @@ permalink: /papers/
 * [**UniKER: A Unified Framework for Combining Embedding and Horn Rules for Knowledge Graph Inference**](/papers/84.pdf). *Kewei Cheng, Ziqing Yang, Ming Zhang and Yizhou Sun*
 * [**Graph Generation with Energy-Based Models**](/papers/86.pdf). *Jenny Liu, Will Grathwohl, Jimmy Ba and Kevin Swersky*
 * [**Bi-Level Attention Neural Architectures for Relational Data**](/papers/87.pdf). *Roshni G. Iyer, Wei Wang and Yizhou Sun*
-* [**Embedding a random graph via GNN: Extended mean-field inference theory and RL applications to NP-Hard multi-robot/machine scheduling**](/papers/91.pdf). *Hyunwook Kang, Aydar Mynbay, James R. Morrison\*, Jinkyoo Park\**
+* [**Embedding a random graph via GNN: Extended mean-field inference theory and RL applications to NP-Hard multi-robot/machine scheduling**](/papers/91.pdf). *Hyunwook Kang, Aydar Mynbay, James R. Morrison\* and Jinkyoo Park\**
 * [**Are Hyperbolic Representations in Graphs Created Equal?**](/papers/94.pdf). *Max Kochurov, Sergey Ivanov and Eugeny Burnaev*
 * [**Graphein - a Python Library for Geometric Deep Learning and Network Analysis on Protein Structures**](/papers/95.pdf). *Arian R. Jamasb, Pietro Liò and Tom L. Blundell*
 * **GraphNets with Spectral Message Passing**. *Kimberly L. Stachenfeld, Jonathan Godwin and Peter W. Battaglia*
