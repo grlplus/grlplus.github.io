@@ -78,7 +78,7 @@ permalink: /papers/
 * [**Meta-Learning GNN Initializations for Low-Resource Molecular Property Prediction**](/papers/38.pdf). *Cuong Q. Nguyen, Constantine Kreatsoulas and Kim M. Branson*
 * [**HNHN: Hypergraph Networks with Hyperedge Neurons**](/papers/40.pdf). *Yihe Dong, Will Sawin and Yoshua Bengio*
 * [**Uncovering the Folding Landscape of RNA Secondary Structure with Deep Graph Embeddings**](/papers/43.pdf). *Egbert Castro, Andrew Benz, Alexander Tong, Guy Wolf\* and Smita Krishnaswamy\**
-* **Discrete Planning with End-to-end Trained Neuro-algorithmic Policies**. *Marin Vlastelica, Michal Rolínek and Georg Martius*
+* [**Discrete Planning with End-to-end Trained Neuro-algorithmic Policies**](/papers/46.pdf). *Marin Vlastelica, Michal Rolínek and Georg Martius*
 * [**SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**](/papers/54.pdf). *Fabian B. Fuchs\*, Daniel E. Worrall\*, Volker Fischer and Max Welling*
 * [**Get Rid of Suspended Animation: Deep Diffusive Neural Network for Graph Representation Learning**](/papers/56.pdf). *Jiawei Zhang*
 * [**Learning Graph Models for Template-Free Retrosynthesis**](/papers/61.pdf). *Vignesh Ram Somnath, Charlotte Bunne, Connor W. Coley, Andreas Krause and Regina Barzilay*
