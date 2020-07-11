@@ -34,7 +34,7 @@ permalink: /papers/
 * [**Principal Neighbourhood Aggregation for Graph Nets**](/papers/20.pdf). *Gabriele Corso\*, Luca Cavalleri\*, Dominique Beaini, Pietro Liò and Petar Veličković*
 * [**Contrastive Graph Neural Network Explanation**](/papers/28.pdf). *Lukas Faber\*, Amin K. Moghaddam\* and Roger Wattenhofer\**
 * [**Few-shot link prediction via graph neural networks for Covid-19 drug-repurposing**](/papers/29.pdf). *Vassilis N. Ioannidis, Da Zheng and George Karypis*
-* **Set2Graph: Learning Graphs From Sets**. *Hadar Serviansky, Nimrod Segol, Jonathan Shlomi, Kyle Cranmer, Eilam Gross, Haggai Maron and Yaron Lipman*
+* [**Set2Graph: Learning Graphs From Sets**](/papers/34.pdf). *Hadar Serviansky, Nimrod Segol, Jonathan Shlomi, Kyle Cranmer, Eilam Gross, Haggai Maron and Yaron Lipman*
 * [**A Graph VAE and Graph Transformer Approach to Generating Molecular Graphs**](/papers/36.pdf). *Joshua Mitton, Hans M. Senn, Klaas Wynne and Roderick Murray-Smith*
 * [**Geometric Matrix Completion: A Functional View**](/papers/37.pdf). *Abhishek Sharma and Maks Ovsjanikov*
 * [**Hierarchically Attentive Graph Pooling with Subgraph Attention**](/papers/39.pdf). *Sambaran Bandyopadhyay, Manasvi Aggarwal and M. Narasimha Murty*
