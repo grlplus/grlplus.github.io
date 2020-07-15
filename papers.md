@@ -33,7 +33,6 @@ permalink: /papers/
 * [**Neural Bipartite Matching**](/papers/19.pdf). *Dobrik Georgiev and Pietro Liò*
 * [**Principal Neighbourhood Aggregation for Graph Nets**](/papers/20.pdf). *Gabriele Corso\*, Luca Cavalleri\*, Dominique Beaini, Pietro Liò and Petar Veličković*
 * [**Contrastive Graph Neural Network Explanation**](/papers/28.pdf). *Lukas Faber\*, Amin K. Moghaddam\* and Roger Wattenhofer\**
-* [**Few-shot link prediction via graph neural networks for Covid-19 drug-repurposing**](/papers/29.pdf). *Vassilis N. Ioannidis, Da Zheng and George Karypis*
 * [**Set2Graph: Learning Graphs From Sets**](/papers/34.pdf). *Hadar Serviansky, Nimrod Segol, Jonathan Shlomi, Kyle Cranmer, Eilam Gross, Haggai Maron and Yaron Lipman*
 * [**A Graph VAE and Graph Transformer Approach to Generating Molecular Graphs**](/papers/36.pdf). *Joshua Mitton, Hans M. Senn, Klaas Wynne and Roderick Murray-Smith*
 * [**Geometric Matrix Completion: A Functional View**](/papers/37.pdf). *Abhishek Sharma and Maks Ovsjanikov*
@@ -71,6 +70,7 @@ permalink: /papers/
 * [**Degree-Quant: Quantization-Aware Training for Graph Neural Networks**](/papers/24.pdf). *Shyam A. Tailor\*, Javier Fernandez-Marques\* and Nicholas D. Lane*
 * [**Message Passing Query Embedding**](/papers/26.pdf). *Daniel Daza and Michael Cochez*
 * **Learning Graph Structure With A Finite-State Automaton Layer**. *Daniel Johnson, Hugo Larochelle and Daniel Tarlow*
+* [**Few-shot link prediction via graph neural networks for Covid-19 drug-repurposing**](/papers/29.pdf). *Vassilis N. Ioannidis, Da Zheng and George Karypis*
 * [**Navigating the Dynamics of Financial Embeddings over Time**](/papers/30.pdf). *Antonia Gogoglou, Brian Nguyen, Alan Salimov, Jonathan B. Rider and C. Bayan Bruss*
 * [**Generalized Multi-Relational Graph Convolution Network**](/papers/31.pdf). *Donghan Yu, Yiming Yang, Ruohong Zhang and Yuexin Wu*
 * [**Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks**](/papers/32.pdf). *Péter Mernyei and Cătălina Cangea*
