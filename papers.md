@@ -11,18 +11,21 @@ permalink: /papers/
 * [**Get Rid of Suspended Animation: Deep Diffusive Neural Network for Graph Representation Learning**](/papers/56.pdf). *Jiawei Zhang*
 * [**Learning Graph Models for Template-Free Retrosynthesis**](/papers/61.pdf). *Vignesh Ram Somnath, Charlotte Bunne, Connor W. Coley, Andreas Krause and Regina Barzilay*
 * **Frequent Subgraph Mining by Walking in Order Embedding Space**. *Rex Ying, Andrew Z. Wang, Jiaxuan You and Jure Leskovec*
+#### Best paper award: Learning Graph Models for Template-Free Retrosynthesis
 
 ### Novel Applications
 
 * [**Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks**](/papers/32.pdf). *Péter Mernyei and Cătălina Cangea*
 * [**Graph Neural Networks for Massive MIMO Detection**](/papers/48.pdf). *Andrea Scotti, Nima N. Moghadam, Dong Liu, Karl Gafvert and Jinliang Huang*
 * [**Embedding a random graph via GNN: Extended mean-field inference theory and RL applications to NP-Hard multi-robot/machine scheduling**](/papers/91.pdf). *Hyunwook Kang, Aydar Mynbay, James R. Morrison\* and Jinkyoo Park\**
+#### Best paper award: Graph Neural Networks for Massive MIMO Detection
 
 ### COVID-19 Applications
 
 * [**Navigating the Dynamics of Financial Embeddings over Time**](/papers/30.pdf). *Antonia Gogoglou, Brian Nguyen, Alan Salimov, Jonathan B. Rider and C. Bayan Bruss*
 * [**Integrating Logical Rules Into Neural Multi-Hop Reasoning for Drug Repurposing**](/papers/60.pdf). *Yushan Liu\*, Marcel Hildebrandt\*, Mitchell Joblin, Martin Ringsquandl and Volker Tresp*
 * [**Gaining insight into SARS-CoV-2 infection and COVID-19 severity using self-supervised edge features and Graph Neural Networks**](/papers/69.pdf). *Arijit Sehanobish\*, Neal Ravindra\* and David van Dijk*
+#### Best paper award: Gaining insight into SARS-CoV-2 infection and COVID-19 severity using self-supervised edge features and Graph Neural Networks
 
 ## Poster Session #1 (10:30--11:30AM GMT+2)
 
